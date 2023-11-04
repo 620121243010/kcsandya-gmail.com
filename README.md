@@ -1,0 +1,2 @@
+# kcsandya-gmail.com
+AI  BASED DIABETES PREDICTION SYSTEM 
